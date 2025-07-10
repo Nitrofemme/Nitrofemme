@@ -1,4 +1,4 @@
-## Hi there :3
+## :3
 - 💁‍♀️ Name: Cynthia
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on creating a Game/Game Engine with Monogame
