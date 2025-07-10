@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there :3
+- 💁‍♀️ Name: Cynthia
+- 😄 Pronouns: She/Her
+- 🔭 I’m currently working on creating a Game/Game Engine with Monogame
+- 🌱 I’m currently learning how to use Monogame
 
+- ⚡ Fun fact: they're always watching you 👁️👃👁️
 <!--
 **Nitrofemme/Nitrofemme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
